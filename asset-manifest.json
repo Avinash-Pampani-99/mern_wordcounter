@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern_wordcounter/static/css/main.5b3005e2.css",
+    "main.js": "/mern_wordcounter/static/js/main.5ed6932a.js",
+    "static/js/787.f2512186.chunk.js": "/mern_wordcounter/static/js/787.f2512186.chunk.js",
+    "index.html": "/mern_wordcounter/index.html",
+    "main.5b3005e2.css.map": "/mern_wordcounter/static/css/main.5b3005e2.css.map",
+    "main.5ed6932a.js.map": "/mern_wordcounter/static/js/main.5ed6932a.js.map",
+    "787.f2512186.chunk.js.map": "/mern_wordcounter/static/js/787.f2512186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b3005e2.css",
+    "static/js/main.5ed6932a.js"
+  ]
+}
